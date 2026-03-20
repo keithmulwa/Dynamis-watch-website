@@ -1,0 +1,14 @@
+<parameter name="content"># Rename home.html to index.html - TODO
+
+## Plan Steps:
+- [ ] 1. Create TODO.md (tracking)
+- [ ] 2. Create index.html from home.html content
+- [ ] 3. Edit index.html: replace 3x href="home.html" → "index.html"
+- [ ] 4. Edit about.html: replace 2x href="home.html" → "index.html"  
+- [ ] 5. Edit contact.html: replace 2x href="home.html" → "index.html"
+- [ ] 6. Edit product.html: replace 2x href="home.html" → "index.html"
+- [ ] 7. Delete home.html
+- [ ] 8. Verify with grep -r 'home.html' .
+- [ ] 9. Mark complete
+
+Current: Step 1 done after creation.</parameter>
